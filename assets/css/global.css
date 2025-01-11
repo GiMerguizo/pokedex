@@ -14,6 +14,10 @@ body {
     background-color: #fff; 
 }
 
+a {
+    text-decoration: none;    
+}
+
 /* media query css */
 @media screen and (min-width: 992px) {
     .content {
